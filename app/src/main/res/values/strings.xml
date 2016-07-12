@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent And Bundle</string>
+    <string name="signin">Signin</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="go_back">Go Back</string>
+</resources>
